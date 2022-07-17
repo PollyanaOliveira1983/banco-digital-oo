@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/pollyanaoliveiramartinsferreira/Prj/Dio/java/lab-banco-digital-oo/.metadata/.plugins/org.eclipse.jdt.core
